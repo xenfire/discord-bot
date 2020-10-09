@@ -1,0 +1,32 @@
+{
+  "name": "discord-bot",
+  "version": "0.0.1",
+  "description": "An open-source discord.js bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xenfire/discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "discordbot",
+    "bot",
+    "discord-bot",
+    "discord.js",
+    "discordjs",
+    "djs"
+  ],
+  "author": "xenfire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xenfire/discord-bot/issues"
+  },
+  "homepage": "https://github.com/xenfire/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0"
+  }
+}
